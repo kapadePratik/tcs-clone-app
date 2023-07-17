@@ -1,0 +1,11 @@
+#image {
+    background-image: url('../components/images/animation-img3.jpg');
+    width: 50%;
+    height: 100vh;
+  }
+
+  #book-img{
+    src: url('../components/images/book-cartoon.avif');
+      width: 100%;
+      height: 50vh;
+  }
